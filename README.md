@@ -1,16 +1,21 @@
-## Hi there 👋
+> There's no undo, and there's no repeat 
 
-<!--
-**FrenchPicnic/FrenchPicnic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 泥吼啊 👋
 
-Here are some ideas to get you started:
+- 未来役社会闲杂人员，在慢慢学习补上一些遗憾  
+- go初学者，想学的太多所以写不完了.jpg  
+- 所以等以后再慢慢加东西  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### More About ME
+
+- [不常更新のBlog](https://frenchpicnic.github.io/)
+- [笔记の站](https://fractalwaltz.github.io)
+
+### Contact
+
+```bash
+echo 'UVE6IDM5NTY4OTI3NzA=' | base64 --decode
+```
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrenchPicnic&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=nighttale&show_icons=true"> -->
