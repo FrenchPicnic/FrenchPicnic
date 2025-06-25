@@ -17,5 +17,9 @@
 echo 'UVE6IDM5NTY4OTI3NzA=' | base64 --decode
 ```
 
+### Other
+
+赛博仓鼠癖ing, 等有时间整理star和following了
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrenchPicnic&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=nighttale&show_icons=true"> -->
